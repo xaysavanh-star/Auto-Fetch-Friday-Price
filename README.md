@@ -1,0 +1,1 @@
+# Auto-Fetch-Friday-Price
